@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! I'm Beila 👋
 
-<!--
-**beilawellner/beilawellner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Engineer** with over 2.5 years of experience at **ODMachine** 👩‍💻  
+Passionate about data and exploring new AI tools 🐉
 
-Here are some ideas to get you started:
+# What I work with:
+- **Languages:** Python (also familiar with: Rust, Java, C++, C#)
+- **Databases:** PostgreSQL, Elasticsearch, Neo4j
+- **Focus Areas:** Backend development, microservices architecture, cloud environments, ETL processes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/beila-wellner)
+- [Email](mailto:your.email@example.com)
+
