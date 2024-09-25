@@ -6,6 +6,7 @@ Passionate about data and exploring new AI tools 🐉
 # What I work with:
 - **Languages:** Python (also familiar with: Rust, Java, C++, C#)
 - **Databases:** PostgreSQL, Elasticsearch, Neo4j
+- **Tools & Technologies:** AWS, GCP, Docker, Kubernetes, Grafana, Prometheus
 - **Focus Areas:** Backend development, microservices architecture, cloud environments, ETL processes
 
 # Let's connect!
