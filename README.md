@@ -1,7 +1,9 @@
 ## Hi there! I'm Beila 👋
 
 For over 2.5 years, I’ve been a **Backend Engineer** at **ODMachine** 👩‍💻
+
 Specializing in Python and working with cloud services and various databases 🐍
+
 I’m passionate about data and exploring new AI tools 💫
 
 ### Let's connect!
